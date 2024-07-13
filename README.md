@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @CVrKaushikNarayanan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me kaushiknarayanancvr@gmail.com
+- Hi, I’m @CVrKaushikNarayanan
+- Programmer: With a solid foundation in programming, I am proficient in multiple programming languages.
+- Problem Solver: I thrive on solving complex problems and developing efficient solutions.
+- Fast Learner: I quickly adapt to new technologies and concepts, constantly expanding my knowledge and skills.
+
+- Email: kaushiknarayanancvr@gmail.com
+
 
 <!---
 CVrKaushikNarayanan/CVrKaushikNarayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
